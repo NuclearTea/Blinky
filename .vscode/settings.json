@@ -1,0 +1,4 @@
+{
+    "cortex-debug.armToolchainPath": "/usr/lib64/ccache",
+    "cortex-debug.openocdPath": "/usr/bin/openocd"
+}
